@@ -34,7 +34,7 @@ It walks through the essential steps of loading documents, splitting them, retri
 
 - Python 3.9+
 - LangChain
-- [Add any other dependencies here]
+- API key from OpenAi
 
 ### Installation
 
